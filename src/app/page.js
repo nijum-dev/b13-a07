@@ -1,10 +1,14 @@
-import HeroSection from '@/components/Hero';
-import React from 'react';
 
-const page = () => {
+import Friends from '@/components/Friends';
+import HeroSection from '@/components/Hero';
+
+
+const page =()=> {
   return (
     <div>
-      <HeroSection></HeroSection>
+     
+      <HeroSection/>
+       <Friends></Friends>
     </div>
   );
 };

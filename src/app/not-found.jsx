@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'next/link';   
 
-
 const NotFound = () => {
     return (
         <div className='h-screen bg-purple-100 flex flex-col items-center justify-center font-bold text-5xl text-black'>
