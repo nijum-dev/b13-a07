@@ -6,7 +6,7 @@ const HeroSection = () => {
         <div>
             <div className='text-center mt-20 space-y-4'>
                 <h1 className='text-black font-bold text-4xl '>Friends to keep close in your life</h1>
-                <p className='text-gray-500 text-sm '>Your personal shelf of meaningful connections. Browse, tend, and nurture the <br />
+                <p className='text-gray-500 text-sm'>Your personal shelf of meaningful connections. Browse, tend, and nurture the <br />
                 relationships that matter most.</p>
                 <button className='btn bg-[#244D3F] text-white'><FaPlus />Add a Friend</button>
             </div>
@@ -30,7 +30,7 @@ const HeroSection = () => {
                  </div>
             </div>
 
-            <hr className='border-t border-gray-100 my-8  ' />
+            <hr className='border-t border-gray-100 my-8 ' />
         </div>
     );  
 };
