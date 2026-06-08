@@ -13,7 +13,7 @@ const Statpage = () => {
     
     return (
         // <div><h1>Friendship Analytics</h1></div>
-        <div className=' my-10 shadow rounded-md container mx-auto border border-slate-300 p-10 bg-white mx-7 '>
+        <div className=' my-10 shadow rounded-md container mx-auto border border-slate-300 p-10 bg-white  '>
             <p className='flex-none text-black font-md text-sm px-10 py-10'>By Interaction Type</p>
             <PieChart style={{ width: '20%', maxWidth: '500px', maxHeight: '80vh', margin:'auto', aspectRatio:1 }} responsive>
       <Pie
