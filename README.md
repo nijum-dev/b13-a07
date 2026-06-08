@@ -5,7 +5,7 @@
 Friends Keeper is a simple and clean web application that helps you track and maintain meaningful relationships. It allows you to manage your friends, monitor when you last contacted them, and stay consistent with your social connections.
 
 ---
-ve
+
 ## 🚀 Technologies Used
 
 * **Next.js** (App Router)
