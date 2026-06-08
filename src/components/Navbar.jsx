@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="navbar bg-base-100 shadow-sm">
   <div className="navbar-start">
    
-    <a className="text-2xl font-bold">Keen<span className='text-[#244D3F] text-2xl font-bold'>Keeper</span></a>
+    <a className="text-2xl font-bold hidden lg:block md:block">Keen<span className='text-[#244D3F] text-2xl font-bold'>Keeper</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
   

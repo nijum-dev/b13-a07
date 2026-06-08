@@ -42,7 +42,7 @@
     "email": "james.wright@gmail.com",
     "days_since_contact": 62,
     "status": "overdue",
-    "tags": ["hobby", "travel"],
+    "tags": ["travel"],
     "bio": "Met during a trip to Nepal. Still share travel plans.",
     "goal": 90,
     "next_due_date": "2026-04-05"
@@ -61,7 +61,7 @@
   },
   {
     "id": 6,
-    "name": "Ali Shakib", 
+    "name": "Tanvir Hasan", 
     "picture": "https://randomuser.me/api/portraits/men/22.jpg",
     "email": "tanvir.hasan@gmail.com",
     "days_since_contact": 10,
@@ -79,7 +79,7 @@
     "email": "ayesha.rahman@gmail.com",
     "days_since_contact": 45,
     "status": "almost due",
-    "tags": ["school", "close friend"],
+    "tags": ["close friend"],
     "bio": "School best friend. We still talk about old memories and life updates.",
     "goal": 50,
     "next_due_date": "2026-05-05"
@@ -115,7 +115,7 @@
     "email": "ryan.taylor@gmail.com",
     "days_since_contact": 28,
     "status": "almost due",
-    "tags": ["work", "mentor"],
+    "tags": ["work"],
     "bio": "Senior at work who guides me in career decisions.",
     "goal": 30,
     "next_due_date": "2026-04-28"
